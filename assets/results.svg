@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 330" width="1200" height="330" role="img" aria-label="Key results: median participant mean error 1.04 degrees Quest Pro, 1.50 Pro Eye, 2.41 Focus Vision">
+<defs><linearGradient id="bg2" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0b1220"/><stop offset="1" stop-color="#132036"/></linearGradient></defs>
+<rect width="1200" height="330" rx="18" fill="url(#bg2)"/>
+<text x="40" y="52" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="25" font-weight="700" fill="#e6edf3">What mean error misses</text>
+<text x="40" y="80" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="15" fill="#8b97a8">30 participants · 3 VR headsets · one protocol · first author · arXiv:2610.32915</text>
+<text x="40" y="122" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="14" font-weight="600" fill="#8b97a8">MEDIAN PARTICIPANT MEAN ERROR</text>
+<text x="40" y="165" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="16" fill="#e6edf3">Meta Quest Pro</text>
+<rect x="230" y="149" width="450" height="22" rx="5" fill="#8b97a8" opacity="0.12"/>
+<rect x="230" y="149" width="156" height="22" rx="5" fill="#4ea1ff"><animate attributeName="width" from="0" to="156" dur="1.2s" begin="0.20s" fill="freeze"/></rect>
+<text x="396" y="165" font-family="'SF Mono', Menlo, Consolas, 'DejaVu Sans Mono', monospace" font-size="16" font-weight="700" fill="#e6edf3">1.04°</text>
+<text x="40" y="217" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="16" fill="#e6edf3">HTC VIVE Pro Eye</text>
+<rect x="230" y="201" width="450" height="22" rx="5" fill="#8b97a8" opacity="0.12"/>
+<rect x="230" y="201" width="225" height="22" rx="5" fill="#4ea1ff"><animate attributeName="width" from="0" to="225" dur="1.2s" begin="0.45s" fill="freeze"/></rect>
+<text x="465" y="217" font-family="'SF Mono', Menlo, Consolas, 'DejaVu Sans Mono', monospace" font-size="16" font-weight="700" fill="#e6edf3">1.50°</text>
+<text x="40" y="269" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="16" fill="#e6edf3">HTC VIVE Focus Vision</text>
+<rect x="230" y="253" width="450" height="22" rx="5" fill="#8b97a8" opacity="0.12"/>
+<rect x="230" y="253" width="362" height="22" rx="5" fill="#4ea1ff"><animate attributeName="width" from="0" to="362" dur="1.2s" begin="0.70s" fill="freeze"/></rect>
+<text x="602" y="269" font-family="'SF Mono', Menlo, Consolas, 'DejaVu Sans Mono', monospace" font-size="16" font-weight="700" fill="#e6edf3">2.41°</text>
+<line x1="760" y1="110" x2="760" y2="295" stroke="#8b97a8" stroke-opacity="0.25"/>
+<text x="790" y="140" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="30" font-weight="700" fill="#7ee0c3">6.04 s</text>
+<text x="790" y="162" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="14" fill="#8b97a8">longest Quest Pro pause hidden in the stream</text>
+<text x="790" y="204" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="30" font-weight="700" fill="#7ee0c3">100%</text>
+<text x="790" y="226" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="14" fill="#8b97a8">of Quest Pro samples flagged valid with eyes closed</text>
+<text x="790" y="268" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="30" font-weight="700" fill="#7ee0c3">9.8×</text>
+<text x="790" y="290" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="14" fill="#8b97a8">Focus Vision dispersion vs. sample-to-sample RMS</text>
+</svg>

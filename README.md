@@ -1,97 +1,65 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1F497D,100:3A7BD5&height=170&section=header&text=Aleksandr%20Chernysh&fontSize=42&fontColor=ffffff&fontAlignY=35&desc=Data%20Science%20%40%20Texas%20State%20%E2%80%A2%20Eye%20Tracking%20%26%20Biometrics&descSize=16&descAlignY=58" width="100%"/>
-
 <p align="center">
-  <a href="https://www.linkedin.com/in/aleksandr-chernysh/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/></a>
-  <a href="https://orcid.org/0009-0008-1213-8089"><img src="https://img.shields.io/badge/ORCID-A6CE39?style=flat-square&logo=orcid&logoColor=white"/></a>
-  <a href="https://arxiv.org/abs/2610.32915"><img src="https://img.shields.io/badge/arXiv-2610.32915-B31B1B?style=flat-square&logo=arxiv&logoColor=white"/></a>
-  <a href="mailto:wll46@txstate.edu"><img src="https://img.shields.io/badge/Email-wll46%40txstate.edu-555555?style=flat-square&logo=maildotru&logoColor=white"/></a>
-  <img src="https://img.shields.io/badge/Texas%20State%20University-501214?style=flat-square"/>
+  <img src="assets/header.svg" width="100%" alt="Aleksandr Chernysh — eye tracking, VR headsets, eye-movement biometrics"/>
 </p>
 
-## About Me
-
-Data Science undergraduate in the **Honors College at Texas State University** and undergraduate researcher in the **OK Lab** with Dr. Oleg Komogortsev. I work on **eye tracking in VR headsets** and **eye-movement biometrics**: measuring how good headset eye trackers really are, and teaching models to recognize people from how their eyes move.
-
-```python
-aleksandr = {
-    "education":   "B.S. Data Science, Texas State University (Honors), 2029",
-    "gpa":         4.0,
-    "focus":       ["eye tracking", "biometrics", "deep metric learning", "VR"],
-    "languages":   ["Python", "SQL", "C++", "C#"],
-    "research":    "adapting eye-movement biometric models to consumer VR headsets",
-    "spoken":      ["English", "Russian"],
-}
-```
-
-## Tech Stack
-
-**Languages**
-<br/>
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white"/>
-<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white"/>
-<img src="https://img.shields.io/badge/C%23-512BD4?style=flat-square"/>
-<img src="https://img.shields.io/badge/LaTeX-008080?style=flat-square&logo=latex&logoColor=white"/>
-
-**Data & ML**
-<br/>
-<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/>
-<img src="https://img.shields.io/badge/Lightning-792EE5?style=flat-square&logo=lightning&logoColor=white"/>
-<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white"/>
-<img src="https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
-<img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white"/>
-<img src="https://img.shields.io/badge/SciPy-8CAAE6?style=flat-square&logo=scipy&logoColor=white"/>
-<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white"/>
-<img src="https://img.shields.io/badge/MediaPipe-0097A7?style=flat-square"/>
-
-**VR & Eye Tracking**
-<br/>
-<img src="https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=white"/>
-<img src="https://img.shields.io/badge/Meta%20Quest%20Pro-0467DF?style=flat-square&logo=meta&logoColor=white"/>
-<img src="https://img.shields.io/badge/HTC%20VIVE-00B2A9?style=flat-square"/>
-
-**Tools**
-<br/>
-<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black"/>
-<img src="https://img.shields.io/badge/GPU%20servers%20(SSH)-76B900?style=flat-square&logo=nvidia&logoColor=white"/>
-
-## GitHub Analytics
-
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=AleksandrChernysh&show_icons=true&count_private=true&include_all_commits=true&theme=github_dark&hide_border=true"/>
+  <a href="https://www.linkedin.com/in/aleksandr-chernysh/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://arxiv.org/abs/2610.32915"><img src="https://img.shields.io/badge/arXiv-2610.32915-B31B1B?style=for-the-badge&logo=arxiv&logoColor=white"/></a>
+  <a href="https://orcid.org/0009-0008-1213-8089"><img src="https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white"/></a>
+  <a href="mailto:wll46@txstate.edu"><img src="https://img.shields.io/badge/Email-wll46%40txstate.edu-30363d?style=for-the-badge"/></a>
 </p>
 
-## Research
+<p align="center">
+  <img src="https://img.shields.io/badge/Open%20to-Summer%202027%20internships%20·%20ML%20·%20Data%20Science%20·%20Eye%20Tracking-2ea043?style=flat-square"/>
+</p>
 
-### 📄 What Mean Error Misses: Eye Tracking Signal Quality in Three VR Headsets
-`Python` · `Unity/C#` · first author, submitted to ACM ETRA 2027
+I study **Data Science at Texas State University** (Honors College, 4.0) and do research in the **OK Lab** with Dr. Oleg Komogortsev. My work sits where hardware meets ML: I measure how good the eye trackers in VR headsets really are, and I train models that recognize people from the way their eyes move.
 
-A 30-participant comparison of the eye trackers in Meta Quest Pro, HTC VIVE Pro Eye and HTC VIVE Focus Vision under one protocol. Device-clock diagnostics showed data loss that mean error hides: the Quest Pro paused for up to 6 s and reported closed eyes as valid gaze. First published evaluation of the Focus Vision eye tracker. Dataset and code are public.
+- 🔬 **Now:** adapting eye-movement biometric models to Meta Quest Pro, using public lab-grade data degraded to headset signal quality
+- 📄 **Recently:** first-authored a 30-participant comparison of three VR eye trackers (submitted to ACM ETRA 2027)
+- 🛠️ **Learning:** SQL and larger-scale multi-dataset training
+
+## 📄 Research
+
+<a href="https://arxiv.org/abs/2610.32915"><img src="assets/results.svg" width="100%" alt="Median participant mean error: Meta Quest Pro 1.04°, HTC VIVE Pro Eye 1.50°, HTC VIVE Focus Vision 2.41°"/></a>
+
+Thirty people, three headsets, one protocol. Mean error ranks the headsets, but diagnostics on each device's own clock show what it hides: multi-second stream pauses, closed eyes reported as valid gaze, and heavy internal filtering. It is also the first published evaluation of the VIVE Focus Vision eye tracker. I led data collection, adapted the Unity acquisition apps to all three headsets, built the analysis pipeline, and released the data and code.
 
 <a href="https://arxiv.org/abs/2610.32915"><img src="https://img.shields.io/badge/Paper-arXiv-B31B1B?style=flat-square"/></a>
-<a href="https://hdl.handle.net/10877/25342"><img src="https://img.shields.io/badge/Dataset-TXST%20repository-501214?style=flat-square"/></a>
-<a href="https://hdl.handle.net/10877/25343"><img src="https://img.shields.io/badge/Code-TXST%20repository-501214?style=flat-square"/></a>
+<a href="https://hdl.handle.net/10877/25342"><img src="https://img.shields.io/badge/Dataset-N%3D30-501214?style=flat-square"/></a>
+<a href="https://hdl.handle.net/10877/25343"><img src="https://img.shields.io/badge/Code-acquisition%20%2B%20analysis-501214?style=flat-square"/></a>
 
-### 👁️ Eye-Movement Biometrics on Meta Quest Pro *(in progress)*
-`Python` · `PyTorch`
+## 🧪 Projects
 
-Making eye-movement authentication work on a consumer VR headset by training on public lab-grade data degraded to headset signal quality.
+<table>
+<tr>
+<td width="50%" valign="top">
 
-## Featured Projects
+### [👁️ Eye Know You Too](https://github.com/AleksandrChernysh/ekyt-reimplementation)
+Re-implementation of a deep metric-learning model that identifies a person from **5 seconds of eye movements**. Trained on GazeBase with subject-disjoint evaluation.
 
-### 🧬 Eye Know You Too — re-implementation
-`Python` · `PyTorch Lightning`
+`PyTorch Lightning` `metric learning` `biometrics`
 
-A deep metric-learning model that identifies people from 5 s of eye movements, trained on the public GazeBase dataset with subject-disjoint evaluation.
+</td>
+<td width="50%" valign="top">
 
-<a href="https://github.com/AleksandrChernysh/ekyt-reimplementation"><img src="https://img.shields.io/badge/View%20Repo-181717?style=flat-square&logo=github"/></a>
+### [⌨️ Webcam Gaze Keyboard](https://github.com/AleksandrChernysh/webcam-gaze-keyboard)
+Real-time eye tracking with an ordinary laptop webcam — calibration, built-in accuracy measurement (~2°), and a keyboard you type on with your eyes.
 
-### ⌨️ Webcam Gaze Tracker and Gaze-Controlled Keyboard
-`Python` · `OpenCV` · `MediaPipe` · `scikit-learn`
+`OpenCV` `MediaPipe` `scikit-learn`
 
-Real-time eye tracking with an ordinary laptop webcam: calibration, built-in accuracy and precision measurement, and an on-screen keyboard you type on with your eyes.
+</td>
+</tr>
+</table>
 
-<a href="https://github.com/AleksandrChernysh/webcam-gaze-keyboard"><img src="https://img.shields.io/badge/View%20Repo-181717?style=flat-square&logo=github"/></a>
+## 🧰 Tools
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3A7BD5,100:1F497D&height=110&section=footer" width="100%"/>
+<p>
+  <img src="https://skillicons.dev/icons?i=py,pytorch,sklearn,postgres,cpp,cs,unity,matlab,latex,git,linux,vscode&perline=12" alt="Python, PyTorch, scikit-learn, SQL, C++, C#, Unity, MATLAB, LaTeX, Git, Linux, VS Code"/>
+</p>
+
+Also: pandas · NumPy · SciPy · OpenCV · MediaPipe · Meta Quest Pro · HTC VIVE · GPU servers over SSH
+
+---
+
+<sub>The header and research card are animated SVGs generated with Python — see <a href="assets/make_svgs.py"><code>assets/make_svgs.py</code></a>. The header shows a scanpath: numbered circles are fixations (size ∝ duration), lines are saccades, the dashed line is a regression.</sub>
